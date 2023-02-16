@@ -88,16 +88,12 @@ title3
     font-size: small;
     font-weight: lighter; 
 }
-.InfoContacto 
-{
-    margin-bottom: 15px;
-    margin-top: 15px;
-}
 
 .InfoContacto
 {
     position: relative;
     flex-direction: column;
+    margin: 10px;
     align-items: center;
     border-bottom: 1px solid black;
 }
