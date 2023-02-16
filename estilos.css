@@ -83,13 +83,12 @@ h3
 }
 
 /**PRIMERA COLUMNA*/
-.InfoContacto title3
+title3
 {
     font-size: small;
     font-weight: lighter;
     margin-top: 10px;
-    margin: 10px;
-    justify-content: left;
+    margin-bottom: 10px;
 }
 .InfoContacto
 {
