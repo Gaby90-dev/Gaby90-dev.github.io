@@ -87,7 +87,9 @@ h3
 {
     font-size: small;
     font-weight: lighter;
-    margin-top: 10%;
+    margin-top: 10px;
+    margin: 10px;
+    justify-content: left;
 }
 .InfoContacto
 {
