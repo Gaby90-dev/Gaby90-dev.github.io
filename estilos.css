@@ -87,8 +87,12 @@ title3
 {
     font-size: small;
     font-weight: lighter; 
-    margin-bottom: 10px;
 }
+.InfoContacto ul
+{
+    margin-bottom: 15px;
+}
+
 .InfoContacto
 {
     position: relative;
