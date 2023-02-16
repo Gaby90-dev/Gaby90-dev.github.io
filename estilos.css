@@ -86,9 +86,7 @@ h3
 title3
 {
     font-size: small;
-    font-weight: lighter;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    font-weight: lighter;    
 }
 .InfoContacto
 {
@@ -97,6 +95,8 @@ title3
     flex-direction: column;
     align-items: center;
     border-bottom: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 h4
 {
