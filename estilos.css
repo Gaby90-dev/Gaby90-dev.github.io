@@ -83,7 +83,7 @@ h3
 }
 
 /**PRIMERA COLUMNA*/
-.InfoContacto title3
+title3
 {
     font-size: small;
     font-weight: lighter; 
@@ -131,7 +131,6 @@ h6
 .Educación
 {
     position: relative;
-    display: flex;
     flex-direction: column;
     align-items: center;
     border-bottom: 1px solid black;
