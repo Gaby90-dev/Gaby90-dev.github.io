@@ -88,9 +88,10 @@ title3
     font-size: small;
     font-weight: lighter; 
 }
-.InfoContacto span
+.InfoContacto 
 {
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .InfoContacto
